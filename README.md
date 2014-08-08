@@ -1,5 +1,5 @@
-Task1
-=====
+Task1 (Show user's GitHub Repos)
+=========================
 
 * Small app that helps you to show user repos by typing his/her Github username
 
