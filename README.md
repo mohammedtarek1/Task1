@@ -8,4 +8,4 @@ Small app that helps you to show user repos by typing his/her Github username
 
 e.g: to show mohammedtarek1 repos type:
 
-``./newgit.js username mohammedtarek1
+`./newgit.js username mohammedtarek1`
